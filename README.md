@@ -141,7 +141,7 @@ Ensure you have the following installed:
 
 | Name | Role |
 |------|------|
-| 🧑‍💻 Your Name | Full Stack Developer |
+| 🧑‍💻 Soubhagya Kabiraj | Full Stack Developer |
 
 
 ---
