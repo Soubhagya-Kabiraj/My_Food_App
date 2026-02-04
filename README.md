@@ -15,7 +15,6 @@
   - [Admin Module](#-admin-module)
   - [User Module](#-user-module)
 - [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
 - [Installation & Run Guide](#-installation--run-guide)
 - [Screenshots](#-screenshots)
 - [Future Enhancements](#-future-enhancements)
@@ -75,40 +74,6 @@ The project demonstrates strong concepts of **MVC architecture**, **CRUD operati
 | Server | Apache Tomcat |
 | Version Control | Git & GitHub |
 | License | MIT License |
-
----
-
-## 📁 Project Structure
-
-Food_Ease/
-│
-├── admin/
-│ ├── add_food.jsp
-│ ├── update_food.jsp
-│ ├── delete_food.jsp
-│ ├── manage_category.jsp
-│ ├── view_orders.jsp
-│ └── manage_users.jsp
-│
-├── user/
-│ ├── home.jsp
-│ ├── menu/
-│ │ ├── view_food.jsp
-│ │ ├── search_food.jsp
-│ │ ├── add_to_cart.jsp
-│ │ ├── place_order.jsp
-│ │ ├── order_details.jsp
-│ │ └── order_history.jsp
-│ ├── about_us.jsp
-│ ├── contact_us.jsp
-│ └── logout.jsp
-│
-├── database/
-│ └── Food_Ordering_App_DB.sql
-│
-├── LICENSE
-│
-└── README.md
 
 ---
 
